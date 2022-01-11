@@ -21,3 +21,10 @@ I will be sharing in this repository Hackerrank questions solutions and various 
 9. Arithmetic Operations
 10. Comptute the Avarage
 11. Fractal Trees (@ copyright)
+12. Cut 1 to 9
+13. Head of text file
+14. Middle of text file
+15. Tail of text file
+16. Tr 1 to 3
+17. Sort 1 to 7
+18. Uniq 1 to 4
